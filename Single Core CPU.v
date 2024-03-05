@@ -1,9 +1,9 @@
 module CPU(
 
-				clk,
-			  rst_n,
+		clk,
+	      rst_n,
   
-		   IO_stall,
+	   IO_stall,
 
          awid_m_inf,
        awaddr_m_inf,
